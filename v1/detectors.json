@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "is_active": true,
+    "alert_name": "Attempts to hack the system",
+    "alert_description": "Detector description",
+    "developer": "Autovisor LTD",
+    "impact_rate": "severe",
+    "last_updated": "2020-09-23T20:00:03.174Z",
+    "trigger": "single"
+  },
+  {
+    "id": 2,
+    "is_active": false,
+    "alert_name": "Attack on the internal components of the car ",
+    "alert_description": "Detector description",
+    "developer": "Autovisor LTD",
+    "impact_rate": "major",
+    "last_updated": "2020-09-19T20:00:03.174Z",
+    "trigger": "single"
+  },
+  {
+    "id": 3,
+    "is_active": true,
+    "alert_name": "Failure of telemetry settings ",
+    "alert_description": "Detector description",
+    "developer": "Autovisor LTD",
+    "impact_rate": "moderate",
+    "last_updated": "2020-09-22T21:00:03.174Z",
+    "trigger": "single"
+  },
+  {
+    "id": 4,
+    "is_active": false,
+    "alert_name": "Failure of telemetry settings ",
+    "alert_description": "Detector description",
+    "developer": "Autovisor LTD",
+    "impact_rate": "negligible",
+    "last_updated": "2020-09-22T21:00:03.174Z",
+    "trigger": "single"
+  },
+  {
+    "id": 5,
+    "is_active": true,
+    "alert_name": "Failure of telemetry settings ",
+    "alert_description": "Detector description",
+    "developer": "Autovisor LTD",
+    "impact_rate": "no impact",
+    "last_updated": "2020-09-22T21:00:03.174Z",
+    "trigger": "single"
+  }
+]
