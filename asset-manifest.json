@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/autovisor/static/css/main.7b868fda.chunk.css",
-    "main.js": "/autovisor/static/js/main.b200f315.chunk.js",
-    "main.js.map": "/autovisor/static/js/main.b200f315.chunk.js.map",
+    "main.js": "/autovisor/static/js/main.7340957f.chunk.js",
+    "main.js.map": "/autovisor/static/js/main.7340957f.chunk.js.map",
     "runtime-main.js": "/autovisor/static/js/runtime-main.94fa726c.js",
     "runtime-main.js.map": "/autovisor/static/js/runtime-main.94fa726c.js.map",
     "static/js/2.8878fb71.chunk.js": "/autovisor/static/js/2.8878fb71.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.94fa726c.js",
     "static/js/2.8878fb71.chunk.js",
     "static/css/main.7b868fda.chunk.css",
-    "static/js/main.b200f315.chunk.js"
+    "static/js/main.7340957f.chunk.js"
   ]
 }
