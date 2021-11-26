@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/autovisor/static/css/main.7b868fda.chunk.css",
-    "main.js": "/autovisor/static/js/main.597b4785.chunk.js",
-    "main.js.map": "/autovisor/static/js/main.597b4785.chunk.js.map",
+    "main.js": "/autovisor/static/js/main.b200f315.chunk.js",
+    "main.js.map": "/autovisor/static/js/main.b200f315.chunk.js.map",
     "runtime-main.js": "/autovisor/static/js/runtime-main.94fa726c.js",
     "runtime-main.js.map": "/autovisor/static/js/runtime-main.94fa726c.js.map",
-    "static/js/2.011d8e31.chunk.js": "/autovisor/static/js/2.011d8e31.chunk.js",
-    "static/js/2.011d8e31.chunk.js.map": "/autovisor/static/js/2.011d8e31.chunk.js.map",
+    "static/js/2.8878fb71.chunk.js": "/autovisor/static/js/2.8878fb71.chunk.js",
+    "static/js/2.8878fb71.chunk.js.map": "/autovisor/static/js/2.8878fb71.chunk.js.map",
     "index.html": "/autovisor/index.html",
     "static/css/main.7b868fda.chunk.css.map": "/autovisor/static/css/main.7b868fda.chunk.css.map",
-    "static/js/2.011d8e31.chunk.js.LICENSE.txt": "/autovisor/static/js/2.011d8e31.chunk.js.LICENSE.txt",
+    "static/js/2.8878fb71.chunk.js.LICENSE.txt": "/autovisor/static/js/2.8878fb71.chunk.js.LICENSE.txt",
+    "static/media/bg-notfound-page.00d1733b.svg": "/autovisor/static/media/bg-notfound-page.00d1733b.svg",
     "static/media/logo.e3551475.svg": "/autovisor/static/media/logo.e3551475.svg",
     "static/media/targetCar.17f1cc7d.png": "/autovisor/static/media/targetCar.17f1cc7d.png",
     "static/media/vehicles.c39a0fb8.svg": "/autovisor/static/media/vehicles.c39a0fb8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.94fa726c.js",
-    "static/js/2.011d8e31.chunk.js",
+    "static/js/2.8878fb71.chunk.js",
     "static/css/main.7b868fda.chunk.css",
-    "static/js/main.597b4785.chunk.js"
+    "static/js/main.b200f315.chunk.js"
   ]
 }
