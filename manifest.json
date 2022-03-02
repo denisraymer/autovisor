@@ -1,6 +1,6 @@
 {
-  "short_name": "Auto Visor",
-  "name": "Auto Visor SIEM",
+  "short_name": "Echomac",
+  "name": "SIEM",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,6 +10,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#DB0B5B",
+  "background_color": "#030303"
 }

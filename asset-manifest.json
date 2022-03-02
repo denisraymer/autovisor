@@ -1,24 +1,13 @@
 {
   "files": {
-    "main.css": "/autovisor/static/css/main.7b868fda.chunk.css",
-    "main.js": "/autovisor/static/js/main.7340957f.chunk.js",
-    "main.js.map": "/autovisor/static/js/main.7340957f.chunk.js.map",
-    "runtime-main.js": "/autovisor/static/js/runtime-main.94fa726c.js",
-    "runtime-main.js.map": "/autovisor/static/js/runtime-main.94fa726c.js.map",
-    "static/js/2.8878fb71.chunk.js": "/autovisor/static/js/2.8878fb71.chunk.js",
-    "static/js/2.8878fb71.chunk.js.map": "/autovisor/static/js/2.8878fb71.chunk.js.map",
-    "index.html": "/autovisor/index.html",
-    "static/css/main.7b868fda.chunk.css.map": "/autovisor/static/css/main.7b868fda.chunk.css.map",
-    "static/js/2.8878fb71.chunk.js.LICENSE.txt": "/autovisor/static/js/2.8878fb71.chunk.js.LICENSE.txt",
-    "static/media/bg-notfound-page.00d1733b.svg": "/autovisor/static/media/bg-notfound-page.00d1733b.svg",
-    "static/media/logo.e3551475.svg": "/autovisor/static/media/logo.e3551475.svg",
-    "static/media/targetCar.17f1cc7d.png": "/autovisor/static/media/targetCar.17f1cc7d.png",
-    "static/media/vehicles.c39a0fb8.svg": "/autovisor/static/media/vehicles.c39a0fb8.svg"
+    "main.js": "/static/js/main.0b341e9b.js",
+    "static/media/scheme.svg": "/static/media/scheme.c13e873ff0eb6ef31067b5ca841073ac.svg",
+    "static/media/logo.svg": "/static/media/logo.4119e53ab5f7a8d249f754e6bbbeb1cc.svg",
+    "static/media/equipment.svg": "/static/media/equipment.56056b70355189db0399daf581b1d969.svg",
+    "index.html": "/index.html",
+    "main.0b341e9b.js.map": "/static/js/main.0b341e9b.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.94fa726c.js",
-    "static/js/2.8878fb71.chunk.js",
-    "static/css/main.7b868fda.chunk.css",
-    "static/js/main.7340957f.chunk.js"
+    "static/js/main.0b341e9b.js"
   ]
 }
